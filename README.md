@@ -1,7 +1,5 @@
 # 🧠 Data Analysis Project
 
-# python_for_data_analysis
-
 This repository contains Python scripts and notebooks for performing data analysis using popular Python libraries such as **Pandas**, **NumPy**, **Matplotlib**, and more.
 
 ---
