@@ -24,4 +24,7 @@ Perform data filtering, sorting, and aggregation
 
 Create visualizations (bar charts, line graphs, heatmaps)
 
+# let's learn together.
+
 Export cleaned data to Excel/CSV
+
