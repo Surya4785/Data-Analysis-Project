@@ -6,7 +6,7 @@ This repository contains Python scripts and notebooks for performing data analys
 
 ## 📦 Required Python Libraries
 
-Below is the list of core libraries used for data cleaning, analysis, and visualization:
+Below is the list of core libraries used for data cleaning, analysis, and visualization: 
 
 | Library       | Purpose                                                        |
 |---------------|----------------------------------------------------------------|
